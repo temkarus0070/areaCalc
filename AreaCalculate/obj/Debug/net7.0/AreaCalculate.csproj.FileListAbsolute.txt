@@ -1,0 +1,12 @@
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\bin\Debug\net7.0\AreaCalculate.deps.json
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\bin\Debug\net7.0\AreaCalculate.dll
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\bin\Debug\net7.0\AreaCalculate.pdb
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\AreaCalculate.csproj.AssemblyReference.cache
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\AreaCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\AreaCalculate.AssemblyInfoInputs.cache
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\AreaCalculate.AssemblyInfo.cs
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\AreaCalculate.csproj.CoreCompileInputs.cache
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\AreaCalculate.dll
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\refint\AreaCalculate.dll
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\AreaCalculate.pdb
+C:\Users\temkarus0070\RiderProjects\AreaCalculate\AreaCalculate\obj\Debug\net7.0\ref\AreaCalculate.dll

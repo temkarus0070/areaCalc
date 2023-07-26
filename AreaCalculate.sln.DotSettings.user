@@ -1,0 +1,37 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=40213db1_002D0bb6_002D4902_002D9059_002D9e06188e9f68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircleAreaTests #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.CircleAreaTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.TriangleAreaTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50d47166_002D34d7_002D4054_002D8c44_002D5f5f7a38dc6e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircleAreaTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.CircleAreaTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=621bc6af_002Da4a2_002D4141_002D953c_002Debab3efa9c9c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircleAreaTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.CircleAreaTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae83f59b_002D36af_002D4425_002Db962_002Db8baf2f12b45/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c3e97ad8_002Da739_002D4c4d_002Db096_002D7f6b67e3a2c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircleAreaTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.CircleAreaTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3938c65_002Dd546_002D4c6e_002D884b_002D87b0dac13b88/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircleAreaTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.CircleAreaTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0398fea_002De36b_002D486c_002Db458_002D62963fe0c14b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2356B5F3-3A26-49E8-9036-C11615EB602F::net7.0::AreaTest.CircleAreaTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
