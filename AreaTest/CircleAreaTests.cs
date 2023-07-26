@@ -17,17 +17,17 @@ public class CircleAreaTests
     public void TestCircleAreaWithDoubleFractionResult()
     {
         var area = _areaCalculator.FindArea(new CircleAreaData() { Radius = 6 });
-        Assert.True(nearlyEqual(area,113.0973, 1e-5));
+        Assert.True(NearlyEqual(area,113.0973, 1e-5));
     }
     
     [Test]
     public void TestCircleAreaWithoutFractionAreaResult()
     {
         var area = _areaCalculator.FindArea(new CircleAreaData() { Radius = 7.978845608 });
-        Assert.True(nearlyEqual(area,200, 1e-5));
+        Assert.True(NearlyEqual(area,200, 1e-5));
     }
-    
-    public static bool nearlyEqual(double a, double b, double epsilon) {
+
+    private static bool NearlyEqual(double a, double b, double epsilon) {
         double absA = Math.Abs(a); 
         double absB = Math.Abs(b);
         double diff = Math.Abs(a - b);
